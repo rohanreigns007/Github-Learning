@@ -1,0 +1,5 @@
+#default codeowner for the file.
+#These owners will be the default owners for everything in the repo.
+* @rohanreigns007 @rathmaku 
+#When someone opens a pull request that only modifies PY files, only @py-owner and not the global owner(s) will be requested for a review.
+*.py @gavvahar 
